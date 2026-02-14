@@ -1,5 +1,5 @@
 # Modern Programming-COSC-4301 Projects
-# Keven Meadows
+## Author: Keven Meadows
 
 This repository was made for projects assigned in COSC-4301
 
